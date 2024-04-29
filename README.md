@@ -1,10 +1,14 @@
-# Navigation in Jetpack Compose Codelab
+# Theming in Compose with Material 3 Codelab
 
-This folder contains the source code for the
-[Navigation in Jetpack Compose Codelab](https://developer.android.com/codelabs/jetpack-compose-navigation)
-codelab.
+This folder contains the source code for
+the [Theming in Compose with Material 3 Codelab](https://developer.android.com/codelabs/jetpack-compose-theming)
+
+## Screenshots
+
+![Theming states](screenshots/theming.png "Theming states")
 
 ## License
+
 ```
 Copyright 2022 The Android Open Source Project
 
@@ -20,4 +24,3 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-
